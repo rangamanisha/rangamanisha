@@ -36,7 +36,7 @@ With over **8 years of hands-on experience**, I specialize in creating impactful
 ## 🌍 Tech Leadership & Community
 
 - 🧭 **Women Techmakers Ambassador** – Google  
-- 📣 **Organizer @ GDG Sudbury** & **GDG Cambrian On Campus**  
+- 📣 **Organizer @ GDG Sudbury** & **WTM**  
 - 🧑‍🏫 Led 10+ workshops, hackathons, and speaker sessions  
 - 👩🏽‍💻 Mentored 50+ students in full-stack, AI, and career prep  
 - 💬 Topics: AI, Cloud Computing, Mobile App Dev, Product Strategy
