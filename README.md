@@ -7,7 +7,7 @@
 
 I'm a **problem-solving, innovation-driven full-stack engineer** passionate about building scalable web and mobile applications with **AI-powered capabilities**.
 
-With over **6 years of hands-on experience**, I specialize in creating impactful, production-ready solutions that bridge user needs and business goals. As a **Google Women Techmakers Ambassador** and **GDG Organizer**, I also advocate for diversity in tech and mentor future developers through events, workshops, and open-source collaboration.
+With over **8 years of hands-on experience**, I specialize in creating impactful, production-ready solutions that bridge user needs and business goals. As a **Google Women Techmakers Ambassador** and **GDG Organizer**, I also advocate for diversity in tech and mentor future developers through events, workshops, and open-source collaboration.
 
 ---
 
